@@ -24,7 +24,7 @@
 
 ## A Demo for the App
 
-- [Demo](https://serra.omarramoun.com/)
+- [Demo](https://sellgo.omarramoun.com/)
 
 ## Built With
 
